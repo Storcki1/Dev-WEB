@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: ghostwhite;
+    color: black;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+}
+
+.destaque_introdução {
+    color: blueviolet;
+    font-size: 700;
+}
+
+header {
+    background: gainsboro;
+    border-bottom: 1px solid gray;
+    padding: 14px 20px;
+    font-family: "Roboto Mono", monospace;
+}
+
+header h1 {
+    color: black;
+    text-align: center;
+    font-size: 35px;
+}
+
+footer {
+    background: gainsboro;
+    border-top: 1px solid gray;
+    text-align: center;
+    font-size: 14px;
+    padding: 14px 20px;
+    font-family: "Roboto Mono", monospace;
+}
+
+main {
+    max-width: 980px;
+    background: lightyellow;
+    padding: 24px;
+    margin: 16px auto;
+    border: 1px solid gray;
+
+}
